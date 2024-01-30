@@ -1,0 +1,125 @@
+body{
+    background-color: hsl(27, 66%, 92%);
+}
+
+.main-box{
+margin-top: 110px;
+width: 390px;
+height: 455px;
+
+}
+
+.box-top{
+
+    background-color: hsl(10, 79%, 65%);
+    height: 80px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+.balance{
+color: white;
+}
+.logo{
+  margin-top: 10px;
+  float: right;
+ 
+}
+/* second box */
+.box-end{
+    background-color: hsl(33, 100%, 98%);
+    height: 359px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.item{
+    align-items: baseline ;
+}   
+
+.day{
+    font-size: smaller;
+    margin-left: 5px;
+    color:hsla(28, 10%, 53%, 0.722);
+}
+/* day on */
+.mon{
+    width: 32px;
+    height: 50px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}
+.tue{
+    width: 32px;
+    height: 100px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+}
+.wed{
+    width: 32px;
+    height: 55px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}.thu{
+    width: 32px;
+    height: 100px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}.fri{
+    width: 32px;
+    height: 90px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}.sat{
+    width: 32px;
+    height: 70px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}.sun{
+    width: 32px;
+    height: 50px;
+    background-color: hsl(10, 79%, 65%) ;
+    border-radius: 4px;
+    margin-right: -10px;
+
+}
+/* day of */
+
+
+.line{
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.322);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.last-end{
+    float: right;
+    text-align: right ;
+    margin-top: 20px;
+}
+.last-amount{
+margin-top: 20px;
+}
+.h6{
+    font-size: smaller;
+    font-weight: inherit;
+}
+.genial{
+    font-size: smaller;
+    font-weight: inherit;
+    color:hsla(28, 10%, 53%, 0.722)
+    ;
+}
